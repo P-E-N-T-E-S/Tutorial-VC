@@ -55,6 +55,13 @@ Cada notebook contém uma explicação detalhada, código Python comentado e exe
           <b>Evaldo G. Filho</b>
         </sub>
       </a>
+    <td align="center">
+      <a href="https://github.com/maluvsb">
+        <img src="https://avatars3.githubusercontent.com/maluvsb" width="100px;" alt="Foto de Malu"/><br>
+        <sub>
+          <b>Maria Luiza</b>
+        </sub>
+      </a>
     </td>
   </tr>
 </table>
